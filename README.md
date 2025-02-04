@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://i.ibb.co.com/MDnDTMWd/Navy-Blue-Geometric-Technology-Linked-In-Banner.jpg" alt="Project Banner" style="width: 100%; height: 250px;" />
+<img src="https://i.ibb.co.com/MDnDTMWd/Navy-Blue-Geometric-Technology-Linked-In-Banner.jpg" alt="Project Banner" style="width: 100%; height: 230px;" />
 
