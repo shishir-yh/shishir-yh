@@ -4,7 +4,7 @@
 💡 Passionate about **Web Development**, **AI**, and **Open Source**  
 📚 Always learning and exploring **new technologies**  
 
-![Banner](https://i.ibb.co.com/N2Rv1Z3y/git-hub-banner-1400-x-500-px.jpg)  
+![Banner](https://i.ibb.co.com/8nC6ySWS/big-github-banner.png) 
 
 
 ---
