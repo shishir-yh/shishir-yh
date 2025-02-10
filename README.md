@@ -1,10 +1,12 @@
 # **👋 Hi, I'm Yeasir Hossain Shishir!**  
+![Banner](https://i.ibb.co.com/8nC6ySWS/big-github-banner.png) 
+
 
 🚀 **MERN Stack Developer | AI Enthusiast**  
 💡 Passionate about **Web Development**, **AI**, and **Open Source**  
 📚 Always learning and exploring **new technologies**  
 
-![Banner](https://i.ibb.co.com/8nC6ySWS/big-github-banner.png) 
+
 
 
 ---
