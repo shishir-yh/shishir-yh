@@ -3,7 +3,7 @@
 
 🚀 **Full Stack Developer | AI Enthusiast | Open Source Contributor**  
 💡 Transforming ideas into robust web solutions with **MERN Stack** & **Next.js**  
-🌱 Currently growing my **PostgreSQL** and **Cloud Development** expertise  
+🌱 Currently growing my **PostgreSQL**  
 
 ---
 
@@ -28,7 +28,11 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Authentication & APIs**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+- **Firebase Authentication**: Email/Password, Google, GitHub, and Phone Auth
+- **Firestore**: Real-time database for scalable apps
 
 ### **DevOps & Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -39,22 +43,10 @@
 
 ## **🚀 Featured Projects**
 
-### 1. **AI-Powered E-commerce Platform** [➡️](link)
-_MERN Stack | Next.js | TensorFlow.js_  
-- Integrated product recommendation engine
-- Real-time analytics dashboard
-- Microservices architecture
-
-### 2. **Open Source Task Manager** [➡️](link)
-_React | Node.js | PostgreSQL_  
-- JIRA-like task management system
-- Role-based access control
-- CI/CD pipeline implementation
-
 ---
 
 ## **📚 Learning Journey**
-- **Currently Mastering:** Advanced PostgreSQL Optimization
+- **Currently Mastering:**PostgreSQL Optimization
 - **Exploring:** AWS Cloud Architecture
 - **Improving:** System Design Patterns
 
